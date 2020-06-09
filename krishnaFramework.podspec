@@ -1,8 +1,8 @@
-Pod::Spec.new do |pec|
+Pod::Spec.new do |s|
 
   
   s.name         = "krishnaFramework"
-   s.version      = "1.0.0"
+  s.version      = "1.0.0"
   s.summary      = "Testing Cocoapods & card information."
   s.description  = "Access methods through cocoapods and install in app"
   s.homepage     = "https://github.com/KrishnaMohan454/TestPublicFramework"
